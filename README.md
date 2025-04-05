@@ -3,12 +3,12 @@
 🎓 3-year Software Engineering student
 
 ## 🔧 Languages
-- **Java**
-- **C**
-- **Python**
-- **HTML**
-- **CSS**
-- **SQL**
+- ![Java](https://img.shields.io/badge/Java-%23A9A9A9.svg)
+- ![C](https://img.shields.io/badge/C-%23A9A9A9.svg)
+- ![Python](https://img.shields.io/badge/Python-%23A9A9A9.svg)
+- ![HTML](https://img.shields.io/badge/HTML-%23A9A9A9.svg)
+- ![CSS](https://img.shields.io/badge/CSS-%23A9A9A9.svg)
+- ![MySQL](https://img.shields.io/badge/MySQL-%23A9A9A9.svg)
 
 ## 📂 My Projects
 ### 📚 [BLib – Library Management System](https://github.com/Method-for-Software-System-Development/BLib4)
