@@ -2,6 +2,14 @@
 
 🎓 3-year Software Engineering student
 
+## 🔧 Languages
+- **Java**
+- **C**
+- **Python**
+- **HTML**
+- **CSS**
+- **SQL**
+
 ## 📂 My Projects
 ### 📚 [BLib – Library Management System](https://github.com/Method-for-Software-System-Development/BLib4)
 Library management system that enables subscribers to search for books, check availability, borrow, and return copies. 
