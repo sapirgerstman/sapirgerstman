@@ -3,7 +3,7 @@
 🎓 3-year Software Engineering student
 
 ## 📂 My Projects
-#### 📚 BLib – Library Management System
+### 📚 [BLib – Library Management System](https://github.com/sapirgerstman/BLib)
 Library management system that enables subscribers to search for books, check availability, borrow, and return copies. 
 
 The system includes librarian functionalities such as user registration, loan extensions, overdue handling, and lost book updates.
