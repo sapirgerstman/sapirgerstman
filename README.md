@@ -16,4 +16,4 @@ Library management system that enables subscribers to search for books, check av
 
 The system includes librarian functionalities such as user registration, loan extensions, overdue handling, and lost book updates.
 
-Built using Java, JavaFX, and client-server communication with the OCSF(client-server) framework.
+Built using Java, JavaFX, and client-server communication with the OCSF(client-server) framework. 
