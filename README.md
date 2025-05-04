@@ -4,7 +4,6 @@
 - 🎓 Software Engineering student (3rd year) at Braude College  
 - 📚 Experienced in Java, C, Python, HTML, CSS and JavaScript  
 - 🚀 Always looking for new challenges and growth opportunities  
-- 💻 Passionate about software engineering, clean code, and learning new technologies  
 
 
 ---
