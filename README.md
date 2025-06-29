@@ -2,9 +2,7 @@
 
 ### 👩‍💻 About Me  
 - 🎓 Software Engineering student (3rd year) at Braude College  
-- 📚 Experienced in Java, C, Python, HTML, CSS and JavaScript  
-- 🚀 Always looking for new challenges and growth opportunities  
-
+- 📚 Experienced in Java, C, Python, HTML, CSS, JavaScript and TypeScript  
 
 ---
 
@@ -18,6 +16,7 @@
   <img src="https://img.shields.io/badge/HTML-gray.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-gray.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-gray.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-gray.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" alt="TypeScript"/>
 </p>
 
 #### 🧰 Tools & Technologies
@@ -26,17 +25,29 @@
   <img src="https://img.shields.io/badge/VSCode-gray.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Spyder-gray.svg?style=for-the-badge&logo=spyderide&logoColor=white" alt="Spyder"/>
   <img src="https://img.shields.io/badge/MySQL-gray.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-gray.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-gray.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Figma-gray.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/GitHub-gray.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-gray.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git"/>
 </p>
 
 #### 🚀 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/JavaFX-gray.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"/>
   <img src="https://img.shields.io/badge/React-gray.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Preact-gray.svg?style=for-the-badge&logo=preact&logoColor=%235A67D8" alt="Preact"/>
   <img src="https://img.shields.io/badge/Node.js-gray.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-gray.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Next.js-gray.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-gray.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind CSS"/>
 </p>
 
+#### 🧩 Additional Concepts
+- Object-Oriented Programming (OOP)  
+- Responsive web & UI design  
+- Client-server architecture  
+- Version control (Git/GitHub)  
 
 ---
 
