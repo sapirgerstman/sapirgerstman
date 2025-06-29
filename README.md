@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/MySQL-gray.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-gray.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-gray.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-gray.svg?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Figma-gray.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/GitHub-gray.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-gray.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git"/>
@@ -45,10 +46,11 @@
 
 #### 🧩 Additional Concepts
 - Object-Oriented Programming (OOP)  
-- Responsive web & UI design  
-- Client-server architecture  
-- Version control (Git/GitHub)  
-
+- Responsive web & UI design
+- Cloud-based deployment  
+- Client-Server architecture  
+- Version control (Git/GitHub/GitKraken)
+  
 ---
 
 ### 📂 Projects
