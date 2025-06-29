@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Sapir Gerstman
+## I'm Sapir Gerstman
 
 ### 👩‍💻 About Me  
-- 🎓 Software Engineering student (3rd year) at Braude College  
-- 📚 Experienced in Java, C, Python, HTML, CSS, JavaScript and TypeScript  
+- Software Engineering student (3rd year) at Braude College  
+- Experienced in Java, C, Python, HTML, CSS, JavaScript and TypeScript  
 
 ---
 
