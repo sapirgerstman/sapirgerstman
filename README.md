@@ -68,6 +68,21 @@
 
 🔗 [View on GitHub »](https://github.com/Method-for-Software-System-Development/BLib4)
 
+#### 🐾 [FurEver Friends – Pet Clinic Management System](https://github.com/Method-for-Software-System-Development/Advanced_Web)
+
+> A comprehensive full-stack veterinary clinic management system for managing pets, appointments, medical records, prescriptions, and clinic operations.
+
+**🛠️ Tech Stack:** React (TypeScript), Vite, TailwindCSS, Node.js, Express.js, MongoDB, JWT, ExcelJS  
+
+**📌 Key Features:**
+- 👥 **Multi-Role User System:** Pet Owners, Secretaries/Admin, Veterinarians with role-based access  
+- 📅 **Advanced Appointment System:** Conflict detection, emergency appointments, email notifications, real-time availability, Excel export  
+- 🏥 **Pet & Medical Management:** Pet profiles with photos, treatment history, prescriptions, medicine inventory  
+- 👨‍⚕️ **Staff Management:** Veterinarian/staff profiles, availability scheduling, role-based access, staff photos  
+- 💬 **Communication Features:** Integrated chat, automated email notifications, emergency alerts  
+
+🔗 [View on GitHub »](https://github.com/Method-for-Software-System-Development/Advanced_Web)
+
 ---
 
 ### 📫 Contact Me
