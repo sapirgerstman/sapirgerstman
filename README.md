@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Express-gray.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Next.js-gray.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TailwindCSS-gray.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/OpenCV-gray.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 #### 🧩 Additional Concepts
