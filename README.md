@@ -65,15 +65,14 @@
 - 📚 Borrow and return books  
 - ⏳ Extend loans and handle overdue returns  
 - 🧑‍💼 Admin features (user registration, lost book reporting)
-
 🔗 [View on GitHub »](https://github.com/Method-for-Software-System-Development/BLib4)
+
 
 #### 🐾 [FurEver Friends – Pet Clinic Management System](https://github.com/Method-for-Software-System-Development/Advanced_Web)
 
 > A comprehensive full-stack veterinary clinic management system for managing pets, appointments, medical records, prescriptions, and clinic operations.
 
 **🛠️ Tech Stack:** React (TypeScript), Vite, TailwindCSS, Node.js, Express.js, MongoDB, JWT, ExcelJS  
-
 **📌 Key Features:**
 - 👥 **Multi-Role User System:** Pet Owners, Secretaries/Admin, Veterinarians with role-based access  
 - 📅 **Advanced Appointment System:** Conflict detection, emergency appointments, email notifications, real-time availability, Excel export  
